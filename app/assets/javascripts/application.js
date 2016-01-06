@@ -16,13 +16,13 @@
 //= require jquery
 //= require underscore
 //= require backbone
-//= require jquery.fixedmask
-//= require jquery-ujs
-//= require jquery-ui
-//= require jQuery-Mask-Plugin
-//= require jquery-sticky
-//= require jquery-smooth-scroll
-//= require jquery-typewatch
+// require jquery.fixedmask
+// require jquery-ujs
+// require jquery-ui
+// require jQuery-Mask-Plugin
+// require jquery-sticky
+// require jquery-smooth-scroll
+// require jquery-typewatch
 //= require store
 // *********************************
 //  Rails GEMs front-end dependencies

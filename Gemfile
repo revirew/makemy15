@@ -4,6 +4,12 @@ ruby '2.2.2'
 
 gem 'rails', '~> 4.1.6'
 
+gem "jquery-rails", "~> 2.3.0"
+#gem "jquery-rails"
+gem 'underscore-rails'
+gem "rails-backbone"
+gem 'jquery-ui-rails'
+
 #gem 'catarse_api', path: '~/code/catarse_api'
 gem 'catarse_api', github: 'catarse/catarse_api'
 gem 'protected_attributes'
